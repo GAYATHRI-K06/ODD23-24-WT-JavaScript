@@ -56,7 +56,8 @@ Enter Previous Reading
 
 
 # OUTPUT (9a):
-![Alt text](<Screenshot 2023-12-26 200640.png>)
+![Screenshot 2023-12-26 200640](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/27770bee-6292-4e54-a371-c7d309d48f4b)
+
 
 
 # Ex-09(b) :
@@ -111,7 +112,8 @@ Enter Number: <input type="text" id="num">
 
 
 # OUTPUT (9b):
-![Alt text](<Screenshot 2023-12-26 200741.png>)
+![Screenshot 2023-12-26 200741](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/24406eba-8592-4769-a395-407874fc569d)
+
 
 # Ex-09(c)
 # AIM
@@ -172,7 +174,8 @@ Generate 'N' prime Number<br>
 
 
 # OUTPUT(9c):
-![Alt text](<Screenshot 2023-12-26 200804.png>)
+![Screenshot 2023-12-26 200804](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/c9d4bb98-de7c-466b-8b59-cd1e0c989ae2)
+
 
 # Ex-09(d)
 
@@ -251,10 +254,14 @@ function divide() {
 
 
 # OUTPUT(9d):
-![Alt text](java4.1.png)
-![Alt text](<Screenshot 2023-12-26 202103.png>)
-![Alt text](<Screenshot 2023-12-26 214837.png>)
-![Alt text](<Screenshot 2023-12-26 214901.png>)
+![Screenshot 2023-12-26 201959](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/2d96df8d-a380-43d6-9e8b-5162adccd09e)
+![Screenshot 2023-12-26 202103](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/b076be0a-2e8d-4144-a9cd-1dca9686ac04)
+![Screenshot 2023-12-26 214837](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/586daea0-f7ed-4472-a92c-6923a239a828)
+![Screenshot 2023-12-26 214901](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/b7c1c84c-2cc9-4741-b7e0-5b32cddc3593)
+
+
+
+
 
 # Ex-09(e):
 
@@ -341,15 +348,16 @@ document.getElementById("num").style.fontStyle = "normal";
 
 
 # OUTPUT(9e):
-![Alt text](<bold java.png>)
-![Alt text](italic.png)
-![Alt text](caps.png)
-![Alt text](<small caps.png>)
-![Alt text](<tittle case.png>)
-![Alt text](<aling right.png>)
-![Alt text](<align left.png>)
-![Alt text](<align center.png>)
-![Alt text](<clear formatting.png>)
+![bold java](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/d94ece68-1a40-41d9-8d1f-8e26fe97f74e)
+![italic](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/23ff17be-62ce-4843-befb-2a07e80ce72b)
+![caps](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/b468ad68-4aad-409f-88c2-e9ca01d1ffda)
+![small caps](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/460123e0-6916-4c91-925f-30441d3ebd89)
+![tittle case](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/93ca9cfd-4dd3-4f25-8fe8-f5581bed4c6d)
+![aling right](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/6c47aaaf-677f-4b61-91c4-74bd1f2203c3)
+![align left](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/a99b8fa4-8b1c-4032-8d28-4fd734e6536b)
+![align center](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/76b6eca9-9aa0-492e-a077-335dd654f451)
+![clear formatting](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/bd9312c5-46b9-4151-a75d-a1f518aad4ce)
+
 # Ex-09(f):
 # AIM
 Design a JavaScript program which displays error messages when a field in form is entered incorrectly.
@@ -412,5 +420,6 @@ function validateForm() {
 ``````
 
 # OUTPUT(9f):
-![Alt text](<Screenshot 2023-12-26 215055.png>)
-![Alt text](<Screenshot 2023-12-26 215022.png>)
+![Screenshot 2023-12-26 215022](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/a80a9f7f-7108-4a52-9a1e-12fbbede4a6f)
+![Screenshot 2023-12-26 215055](https://github.com/GAYATHRI-K06/ODD23-24-WT-JavaScript/assets/145742742/0d851e0e-1d20-4016-9e73-4c82fdc4e53c)
+
